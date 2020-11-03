@@ -1,0 +1,5 @@
+data:
+  env: localhost-wangpan-dev
+  user:
+    username: wangpan-dev
+    password: 123456-dev
